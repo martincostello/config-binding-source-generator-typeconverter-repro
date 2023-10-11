@@ -1,6 +1,6 @@
 # Config binding source generator TypeConverter repro
 
-A repository which reproduces [dotnet/runtime#CHANGE_ME](https://github.com/dotnet/runtime/issues/CHANGE_ME) when using the configuration binding source generator.
+A repository which reproduces [dotnet/runtime#93335](https://github.com/dotnet/runtime/issues/93335) when using the configuration binding source generator.
 
 To reproduce the issue, run the following command:
 
