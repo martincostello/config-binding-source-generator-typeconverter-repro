@@ -1,4 +1,4 @@
-# Config binding source generator CS8598 repro
+# Config binding source generator TypeConverter repro
 
 A repository which reproduces [dotnet/runtime#CHANGE_ME](https://github.com/dotnet/runtime/issues/CHANGE_ME) when using the configuration binding source generator.
 
